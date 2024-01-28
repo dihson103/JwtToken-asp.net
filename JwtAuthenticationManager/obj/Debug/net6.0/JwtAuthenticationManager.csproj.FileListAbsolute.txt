@@ -1,0 +1,12 @@
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.deps.json
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.dll
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\bin\Debug\net6.0\JwtAuthenticationManager.pdb
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.AssemblyInfo.cs
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.dll
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\obj\Debug\net6.0\refint\JwtAuthenticationManager.dll
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\obj\Debug\net6.0\JwtAuthenticationManager.pdb
+D:\ky8\1_PRN231\Project\JwtTokenDemo\JwtAuthenticationManager\obj\Debug\net6.0\ref\JwtAuthenticationManager.dll
