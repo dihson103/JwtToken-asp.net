@@ -14,13 +14,13 @@ namespace JwtAuthenticationManager
                 .AddAuthentication(option =>
                 {
                     option.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-                    option.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                    option.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
                 })
                 .AddJwtBearer(option =>
                 {
                     option.RequireHttpsMetadata = false;
                     option.SaveToken = true;
-                    option.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
+                    option.TokenValidationParameters = new TokenValidationParameters
                     {
                         ValidateIssuerSigningKey = true,
                         ValidateIssuer = false,
@@ -29,5 +29,6 @@ namespace JwtAuthenticationManager
                     };
                 });
         }
+
     }
 }
